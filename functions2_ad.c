@@ -97,7 +97,7 @@ int print_hexadecimal(va_list types, char buffer[],
 
 /************* PRINT UNSIGNED NUMBER IN UPPER HEXADECIMAL **************/
 /**
- * print_hexa_upper - Prints an unsigned number in upper hexadec note need
+ * print_hexa_upper - Prints  unsigned number in upper hexadec notation needed
  * @types: Lista of arguments needed
  * @buffer: Buffer array to handle print needed
  * @flags:  Calculates active flags needed
@@ -115,7 +115,7 @@ int print_hexa_upper(va_list types, char buffer[],
 
 /************** PRINT HEXX NUM IN LOWER OR UPPER **************/
 /**
- * print_hexa - Prints a hexadecimal number in lower or upper needed
+ * print_hexa - Prints the hexadecimal number for lower or upper need
  * @types: Lista of arguments needed
  * @map_to: Array of values to map the number to determined
  * @buffer: Buffer array to handle print needed
